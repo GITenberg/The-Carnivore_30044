@@ -1,0 +1,39 @@
+_repo: The-Carnivore_30044
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Burchard
+    gutenberg_agent_id: '35845'
+    url: http://www.gutenberg.org/2009/agents/35845
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: MacLean, Katherine
+    aliases:
+    - Dye, Charles
+    - MacLean, Katherine Anne
+    - Morris, G. A.
+    birthdate: 1925
+    gutenberg_agent_id: '34332'
+    url: http://www.gutenberg.org/2009/agents/34332
+    wikipedia: http://en.wikipedia.org/wiki/Katherine_MacLean
+description: ''
+gutenberg_bookshelf:
+- Science Fiction by Women
+- Science Fiction
+gutenberg_issued: '2009-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30044'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Short stories'
+title: The Carnivore
+url: http://www.gutenberg.org/ebooks/30044
